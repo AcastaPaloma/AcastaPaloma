@@ -4,7 +4,7 @@
 
 ## About Me 🧑‍🎓
 
-I'm a recent graduate of Collège Jean-de-Brébeuf and currently an Honors Health Science student at Marianopolis College. My passion lies in the intersection of linguistics, etymology, and artificial intelligence. I'm fluent in French, English, and Mandarin, have advanced skills in Spanish, and I'm currently learning German.
+I'm a recent graduate of Collège Jean-de-Brébeuf and currently an Honors Health Science student at Marianopolis College. My passion lies in the intersection of linguistics, medicine, and artificial intelligence. I'm fluent in French, English, and Mandarin, have advanced skills in Spanish, and I'm currently learning German.
 
 ## Skills 💻
 
