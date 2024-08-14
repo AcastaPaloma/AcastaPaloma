@@ -12,7 +12,7 @@ I'm **Kuan Yi Wang**, an aspiring Honors Health Science student at Marianopolis 
 
 - 💻 **Tech Stack:** My skills include:
   - **Languages:** Python, JavaScript, HTML/CSS, SQL
-  - **Tools & Frameworks:** 3D Slicer, Git, and more
+  - **Tools & Frameworks:** 3D Slicer, Git, Flask, 
 
 - 🌍 **Linguistics Lover:** I'm fluent in French, English, and Mandarin, with advanced skills in Spanish and a growing proficiency in German. My fascination with language extends to projects that blend technology and linguistics.
 
